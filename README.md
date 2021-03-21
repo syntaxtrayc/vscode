@@ -1,3 +1,4 @@
 # VSCODE  helpful nmeumonic keys
-[Cntrl] + [Shift] [L]
-- select all occurrences of Find Match (or highlighted word) 
+Select all occurrences of Find Match (or highlighted word) 
+- [Cntrl] + [Shift] + [L] on Windows
+- [Cmd] + [Ctrl] + [G] on Mac
